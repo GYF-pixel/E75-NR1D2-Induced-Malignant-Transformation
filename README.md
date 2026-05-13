@@ -12,12 +12,14 @@ Wing disc endogenous binding of E75: E75-Flag;
 Eye disc binding of Notch and Yki with/without E75 interference:  Notch, Yki (NY tumor) and E75, Notch, Yki (ENY tumor).
 
 ### 02 bulk RNA-seq Data Analysis:
-#### Drosophila model 
+#### 2.1 Drosophila model 
 **Eye disc tumor model 1:**  
 Drosophila epithelial tumor models representing hyperplasia (wts−/−), dysplasia (scrib−/−, wts−/−), and neoplasia (RasV12, scrib−/−). Bulk RNA-seq on dysplasia (scrib−/−, wts−/−), neoplasia (RasV12, scrib−/−), and E75-transformed neoplasia (E75, scrib−/−, wts−/−);  
+
 **Eye disc tumor model 2:**  
 Drosophila epithelial tumor models driven by Notch and Yki (NY tumor) and E75, Notch, and Yki (ENY tumor).
-#### Murine model  
+
+#### 2.2 Murine model  
 Mamalian validation via siNR1D2 vs siControl in glioblastoma (GBM) cancer cells.
 
 
@@ -25,7 +27,7 @@ Mamalian validation via siNR1D2 vs siControl in glioblastoma (GBM) cancer cells.
 Nuclear receptor E75/NR1D2 promotes tumor malignant transformation by integrating Hippo and Notch pathways   
 https://doi.org/10.1038/s44318-024-00290-3   
 E75-induced Toll/NF-κB signaling cooperates with Notch and Hippo pathways to promote tumor malignancy   
-https://doi.org/10.1016/j.jgg.2025.10.006   
+https://doi.org/10.1016/j.jgg.2025.10.006
 
 The sequencing data can be downloaded freely, and codes developed for this study are provided. 
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1067005/
