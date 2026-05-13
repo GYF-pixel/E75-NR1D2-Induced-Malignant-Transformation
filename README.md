@@ -12,12 +12,12 @@ Wing disc endogenous binding of E75 (*E75-Flag*);
 Eye disc binding of Notch and Yki with/without E75 interference (*Notch, Yki* [*NY*] tumor) and (*E75, Notch, Yki* [*ENY*] tumor).
 
 ### 2. bulk RNA-seq Data Analysis:
-#### 2.1 Drosophila model 
-Drosophila epithelial tumor models representing hyperplasia (*wts−/−*), dysplasia (*scrib−/−, wts−/−*), and neoplasia (*RasV12, scrib−/−*). Bulk RNA-seq on dysplasia (*scrib−/−, wts−/−*), neoplasia (*RasV12, scrib−/−*), and *E75*-transformed neoplasia (*E75, scrib−/−, wts−/−*);  
-Drosophila epithelial tumor models driven by *Notch* and *Yki* (NY tumor) and *E75*, *Notch*, and *Yki* (ENY tumor).
+#### 2.1 *Drosophila* model 
+*Drosophila* epithelial tumor models representing hyperplasia (*wts−/−*), dysplasia (*scrib−/−, wts−/−*), and neoplasia (*RasV12, scrib−/−*). Bulk RNA-seq on dysplasia (*scrib−/−, wts−/−*), neoplasia (*RasV12, scrib−/−*), and *E75*-transformed neoplasia (*E75, scrib−/−, wts−/−*);  
+*Drosophila* epithelial tumor models driven by *Notch* and *Yki* (NY tumor) and *E75*, *Notch*, and *Yki* (ENY tumor).
 
 #### 2.2 Murine model  
-Mamalian validation via *siNR1D2* vs *siControl* in glioblastoma (GBM) cancer cells.
+Mammalian validation via subcutaneous implantation of *siNR1D2-* and *siControl-* treated LN-18 glioblastoma (GBM) cancer cells into both flanks of NSG mice. 
 
 ## **For more information, please read our paper:**  
 Nuclear receptor *E75/NR1D2* promotes tumor malignant transformation by integrating Hippo and Notch pathways   
