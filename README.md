@@ -8,8 +8,11 @@ Steroid Hormone; Hippo Signaling; Notch Signaling; *E75/NR1D2*; Glioblastoma; NF
 
 ## **The multi-oims data analysis includes:**  
 ### 1. CUT&Tag Data Analysis:
-Wing disc endogenous binding of E75 (*E75-Flag*);   
-Eye disc binding of Notch and Yki with/without E75 interference (*Notch, Yki* [*NY*] tumor) and (*E75, Notch, Yki* [*ENY*] tumor).
+#### 1.1 *Drosophila* wing disc model 
+Wing disc endogenous binding of E75 (*E75-Flag*), Su(H) and Yki;     
+
+#### 1.2 *Drosophila* eye-antennal disc model 
+Eye disc binding of Notch and Yki with/without E75 interference (*Notch, Yki* [*NY*] tumor) and (*E75, Notch, Yki* [*ENY*] tumor).   
 
 ### 2. bulk RNA-seq Data Analysis:
 #### 2.1 *Drosophila* model 
